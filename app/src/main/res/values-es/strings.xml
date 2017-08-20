@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dog Breeds</string>
+    <string name="hello_blank_fragment">Hola fragmento vacio</string>
+    <string name="hello_dogs_fragment">Hola soy el fragmento de perros</string>
+    <string name="navigation_drawer_close">cerrar</string>
+    <string name="navigation_drawer_open">abrir</string>
+</resources>
